@@ -1,0 +1,15 @@
+{
+  "EPPD" : {
+    "EPPDPort" : "7700",
+    "EPPDHost" : "127.0.0.1"
+  },
+  "Zaloopa" : {
+    "CSLogin" : "zaloopa",
+    "CSPass" : "lox"
+  },
+  "Master" : {
+    "TLDLogin" : "master",
+    "TLDPass" : "elita",
+    "TLDHost" : "192.168.14.88"
+  }
+}
